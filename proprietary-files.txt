@@ -527,6 +527,7 @@ vendor/radio/qcril_database/qcril.db
 # RIL - from surya V13.0.4.0.SJGEUXM
 -vendor/lib64/libqdp.so|f83bbbdb764699613c3a829f94f74b335e87de8d
 -vendor/lib64/libril-qc-hal-qmi.so|637152fc0da369746343118a7ef6eae4bee17c6a
+-vendor/lib64/vendor.qti.hardware.radio.lpa@1.2.so|ff82aa5e007728edfe1e24e73b1ea0c50d805f2c
 
 # Soter
 vendor/app/SoterService/SoterService.apk
