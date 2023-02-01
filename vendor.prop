@@ -109,6 +109,7 @@ vendor.qcom.bluetooth.soc=cherokee
 
 # Camera
 camera.disable_zsl_mode=1
+vendor.camera.aux.packageexcludelist=org.telegram.messenger,org.thunderdog.challegram,tw.nekomimi.nekogram,org.telegram.plus
 
 # Chipset
 ro.soc.manufacturer=QTI
